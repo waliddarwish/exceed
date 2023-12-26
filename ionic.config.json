@@ -1,0 +1,8 @@
+{
+  "name": "Exceed",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "38d0afcd"
+}
